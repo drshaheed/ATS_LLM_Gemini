@@ -1,7 +1,3 @@
-Based on the content of the `app.py` file, here's a project description you can use for your GitHub repository:
-
----
-
 ## Smart ATS (Applicant Tracking System)
 
 Smart ATS is a Streamlit-based web application designed to assist job seekers in optimizing their resumes for Applicant Tracking Systems (ATS) commonly used in the tech industry. This application leverages the capabilities of Google's Generative AI, specifically the Gemini-Pro model, to evaluate resumes against job descriptions and provide valuable feedback.
@@ -35,7 +31,3 @@ Smart ATS is a Streamlit-based web application designed to assist job seekers in
 ### Usage
 
 Access the web application locally by navigating to `http://localhost:8501` in your web browser.
-
----
-
-Feel free to modify this description to better suit your project or add any additional details you think are important!
